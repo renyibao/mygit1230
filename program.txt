@@ -10,3 +10,7 @@ methodA()
 {
 	print "my name is niuniu";
 }
+methodB()
+{
+	print "my name is B";
+}
