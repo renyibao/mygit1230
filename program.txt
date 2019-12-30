@@ -1,0 +1,12 @@
+Main()
+{
+	print "hello world";
+}
+method()
+{
+	print "my name is xiaofeiniu";
+}
+methodA()
+{
+	print "my name is niuniu";
+}
