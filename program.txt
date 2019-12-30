@@ -14,3 +14,7 @@ methodB()
 {
 	print "my name is B";
 }
+methodC()
+{
+	print "my name is C";
+}
